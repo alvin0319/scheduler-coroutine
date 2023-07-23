@@ -1,0 +1,6 @@
+name: CoroutineExamplePlugin
+authors: [ alvin0319, monun ]
+main: dev.minjae.pnx.coroutine.plugin.ExampleCoroutinePlugin
+website: https://github.com/monun/heartbeat-coroutines
+version: 1.0.0
+api: 1.0.14
